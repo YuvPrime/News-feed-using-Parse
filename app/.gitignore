@@ -1,3 +1,4 @@
 /build
 *.iml
 .idea
+/src/main/java/com.newsfeedusingparse/ParseApplication.class
